@@ -1,0 +1,11 @@
+      0.00: Loading configuration C:\Program Files (x86)\Pro Evolution Soccer 2017\antilag.cfg
+      0.02: FPS Limiter: 120.000000
+      0.02: Render ahead limit: 2
+      0.05: Loaded library
+      5.49: Direct3DCreate9 (ver 32)
+ <Last message repeated 2 times>
+     23.11: NewCreateDevice
+     23.66: Replacing function pointers...
+     23.66: Added refs: 8
+    338.77: Device destroyed (0)
+    338.92: d3d9.dll unloaded
